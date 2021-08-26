@@ -1,0 +1,15 @@
+name,title,type,credit,days,startTime,endTime,instructor,hasLab,room,link,major
+AMS151,Applied Calculus I,LEC,3,MW,15:30,16:50,Kazem Mahdavi,FALSE,TBA,http://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams151.php,AMS
+AMS161,Applied Calculus II,LEC,3,MW,15:30,16:50,Young-seon Lee,FALSE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams161.php,AMS
+AMS161,Applied Calculus II,LEC,3,TUTH,15:30,16:50,Young-seon Lee,FALSE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams161.php,AMS
+AMS210,Applied Linear Algebra,LEC,3,MW,17:00,18:20,Kazem Mahdavi,FALSE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams210.php,AMS
+AMS261,Applied Calculus III,LEC,4,MW,15:30,16:50,Tan Cao,TRUE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams261.php,AMS
+AMS261,Applied Calculus III,REC,4,RECM,12:30,13:25,Tan Cao,FALSE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams261.php,AMS
+AMS301,Finite Mathematical Structures,LEC,3,MW,17:00,18:20,Suil O,FALSE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams301.php,AMS
+AMS310,Survey of Probability and Statistics,LEC,3,MW,10:30,11:50,MYOUNGSHIC JHUN,FALSE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams310.php,AMS
+AMS317,Introduction to Linear Regression Analysis,LEC,3,TUTH,14:00,15:20,CHANGSOON PARK,FALSE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams317.php,AMS
+AMS318,Financial Mathematics,LEC,3,MW,9:00,10:20,Ky Tran,FALSE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams318.php,AMS
+AMS361,Applied Calculus IV: Differential Equations,LEC,4,MW,14:00,15:20,Tan Cao,TRUE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams361.php,AMS
+AMS361,Applied Calculus IV: Differential Equations,REC,4,RECF,10:30,11:25,Tan Cao,FALSE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams361.php,AMS
+AMS394,Statistical Laboratory,LAB,3,MW,10:30,11:50,Hyunwook Koh,FALSE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams394.php,AMS
+AMS412,Mathematical Statistics,LEC,3,MW,15:30,16:50,MYOUNGSHIC JHUN,FALSE,TBA,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams412.php,AMS

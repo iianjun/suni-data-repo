@@ -1,0 +1,376 @@
+[
+  {
+    "major": "TSM",
+    "name": "EST194",
+    "title": "Decision-making",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "Online",
+    "instructor": "Joseph Cabuay",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST202",
+    "title": "Intro to Sci, Tech,Soc Studies",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "Online",
+    "instructor": "Gerald Stokes",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST204",
+    "title": "Modern Digital Tech Innovation",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "Online",
+    "instructor": "Maurice Bess",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST207",
+    "title": "Interaction Design",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "Online",
+    "instructor": "Neal Dreamson",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST230",
+    "title": "ICT for Development",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "B203",
+    "instructor": "Jin-sang Lee",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST240",
+    "title": "Visual Rhetoric",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "Online",
+    "instructor": "Anthony Pennings",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST304",
+    "title": "Communication for Engr & Sci",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:50",
+    "room": "Online",
+    "instructor": "Joseph Cabuay",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST305",
+    "title": "App Software for Info Mgt",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "C107",
+    "instructor": "Clovia Hamilton",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST310",
+    "title": "Design of Computer Games",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "C103",
+    "instructor": "Maurice Bess",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST320",
+    "title": "Communication Tech Systems",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "C103",
+    "instructor": "Suzana Brown",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST325",
+    "title": "Technology in the Workplace",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "B203",
+    "instructor": "KYUNG KU KIM",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST326",
+    "title": "Management for Engineers",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "Online",
+    "instructor": "Joseph Cabuay",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST327",
+    "title": "Marketing for Engineers",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "Online",
+    "instructor": "Jang Lee",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST331",
+    "title": "Engineering Ethics",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "room": "Online",
+    "instructor": "Clovia Hamilton",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST364",
+    "title": "How to Build a Startup",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "room": "B203",
+    "instructor": "Suzana Brown",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST371",
+    "title": "Data Sci Management",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "B207",
+    "instructor": "Sira Maliphol",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST372",
+    "title": "Mobile Revolution",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "B203",
+    "instructor": "Anthony Pennings",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST391",
+    "title": "Technology Assessment",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "Online",
+    "instructor": "Mark Whitaker",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST392",
+    "title": "Engineering Economics",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:50",
+    "room": "B103",
+    "instructor": "Anthony Pennings",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST393",
+    "title": "Project Management",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "C107",
+    "instructor": "Jang Lee",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST440",
+    "title": "Interdis Rsch Methods",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "C103",
+    "instructor": "Sira Maliphol",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  },
+  {
+    "major": "TSM",
+    "name": "EST441",
+    "title": "Interdis Senior Project",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "C107",
+    "instructor": "Neal Dreamson",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/est/"
+  }
+]

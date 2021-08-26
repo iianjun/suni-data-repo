@@ -1,0 +1,371 @@
+[
+  {
+    "major": "CSE",
+    "name": "CSE101",
+    "title": "Computer Science Principles",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "C107",
+    "instructor": "Alexander Kuhn",
+    "hasLab": true,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE101"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE101",
+    "title": "Computer Science Principles",
+    "type": "LAB",
+    "credit": 3,
+    "days": [
+      "MON"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:50",
+    "room": "C107",
+    "instructor": "Alexander Kuhn",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE101"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE102",
+    "title": "Intro to Web Dsgn & Programmg",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "Online",
+    "instructor": "TBD",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE102"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE114",
+    "title": "Intro to Object-Oriented Prog",
+    "type": "LEC",
+    "credit": 4,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "Online",
+    "instructor": "Antonino Mione",
+    "hasLab": true,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE114"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE114",
+    "title": "Intro to Object-Oriented Prog",
+    "type": "LAB",
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "Online",
+    "instructor": "Antonino Mione",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE114"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE214",
+    "title": "Data Structures",
+    "type": "LEC",
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "Online",
+    "instructor": "YoungMin Kwon",
+    "hasLab": true,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE214"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE214",
+    "title": "Data Structures",
+    "type": "REC",
+    "credit": 4,
+    "days": [
+      "WED"
+    ],
+    "startTime": "14:00",
+    "endTime": "14:53",
+    "room": "Online",
+    "instructor": "YoungMin Kwon",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE214"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE215",
+    "title": "Foundations of Comp Science",
+    "type": "LEC",
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:50",
+    "room": "Online",
+    "instructor": "Chi Him Wong",
+    "hasLab": true,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE215"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE215",
+    "title": "Foundations of Comp Science",
+    "type": "REC",
+    "credit": 4,
+    "[days": [
+      "THU"
+    ],
+    "startTime": "9:00",
+    "endTime": "9:53",
+    "room": "Online",
+    "instructor": "Chi Him Wong",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE215"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE216",
+    "title": "Programming Abstractions",
+    "type": "LEC",
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "Online",
+    "instructor": "YoungMin Kwon",
+    "hasLab": true,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE216"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE216",
+    "title": "Programming Abstractions",
+    "type": "REC",
+    "credit": 4,
+    "days": [
+      "MON"
+    ],
+    "startTime": "12:00",
+    "endTime": "12:53",
+    "room": "Online",
+    "instructor": "YoungMin Kwon",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE216"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE220",
+    "title": "Systems Fundamentals I",
+    "type": "LEC",
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "Online",
+    "instructor": "AMOS OMONDI",
+    "hasLab": true,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE220"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE220",
+    "title": "Systems Fundamentals I",
+    "type": "REC",
+    "credit": 4,
+    "days": [
+      "WED"
+    ],
+    "startTime": "14:00",
+    "endTime": "14:53",
+    "room": "Online",
+    "instructor": "AMOS OMONDI",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE220"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE303",
+    "title": "Intro to Theory of Computation",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "A114",
+    "instructor": "AMOS OMONDI",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE303"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE305",
+    "title": "Principles of Database Systems",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "B205",
+    "instructor": "Arthur Lee",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE305"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE312",
+    "title": "Legal Issues in Info Systems",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "B103",
+    "instructor": "AMOS OMONDI",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE312"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE316",
+    "title": "Software Development",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "B103",
+    "instructor": "Alexander Kuhn",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE316"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE320",
+    "title": "Systems Fundamentals II",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "C105",
+    "instructor": "Antonino Mione",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE320"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE327",
+    "title": "Computer Vision",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "A704",
+    "instructor": "Jihoon Ryoo",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE327"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE331",
+    "title": "Computer Security Fundamentals",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "C105",
+    "instructor": "Antonino Mione",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE331"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE352",
+    "title": "Artificial Intelligence",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "C103",
+    "instructor": "Byungkon Kang",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE352"
+  },
+  {
+    "major": "CSE",
+    "name": "CSE416",
+    "title": "Software Engineering",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "B205",
+    "instructor": "Alexander Kuhn",
+    "hasLab": false,
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE416"
+  }
+]

@@ -1,0 +1,18 @@
+name,title,type,credit,days,startTime,endTime,instructor,hasLab,room,link,major
+ACC210,Financial Accounting,LEC,3,TUTH,14:00,15:20,Jeehong Kim,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+ACC210,Financial Accounting (for non-major students),LEC,3,TH,14:00,16:50,Woon-Oh Jung,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS215,Intro to Business Statistics,LEC,3,MW,15:30,16:50,Jaeyeong Lee,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS215,Intro to Business Statistics (for non-major students),LEC,3,TUTH,12:30,13:50,Seungwook Kim,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS220,Intro to Decision Sciences,LEC,3,MW,10:30,11:50,Chungseung Lee,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS301,Business Communications,LEC,3,W,9:00,11:50,Tae Hee Lee,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS326,Organizational Behavior,LEC,3,TUTH,17:00,18:20,Chih-mao Hsieh,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS330,Principles of Finance,LEC,3,TUTH,10:30,11:50,Joung Hwa Choi,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS346,Operations Management,LEC,3,MW,15:30,16:50,Chungseung Lee,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS348,Principles of Marketing,LEC,3,MW,10:30,11:50,Sungjoon Nam,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS353,Entrepreneurship,LEC,3,TUTH,15:30,16:50,Chih-mao Hsieh,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS358,Marketing Research,LEC,3,MW,17:00,18:20,Sungjoon Nam,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS359,Consumer Behavior,LEC,3,TU,14:00,16:50,Young-Won Ha,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS365,Financial Management,LEC,3,TUTH,14:00,15:20,Joung Hwa Choi,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS366,Money and Financial Institutions,LEC,3,TU,10:30,13:20,Sung Sup Choi,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS447,Business Ethics,LEC,3,TH,10:30,13:20,In Ki Joo,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS
+BUS448,Marketing Strategy,LEC,3,MW,14:00,15:20,KYUNG KYU KIM,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/bus/,BUS

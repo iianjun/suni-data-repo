@@ -1,0 +1,271 @@
+[
+  {
+    "major": "BUS",
+    "name": "ACC210",
+    "title": "Financial Accounting",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "Online",
+    "instructor": "Jeehong Kim",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "ACC210",
+    "title": "Financial Accounting (for non-major students)",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "THU"
+    ],
+    "startTime": "12:30",
+    "endTime": "15:20",
+    "room": "A116",
+    "instructor": "Woon-Oh Jung",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS215",
+    "title": "Intro to Business Statistics",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "Online",
+    "instructor": "Jaeyeong Lee",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS215",
+    "title": "Intro to Business Statistics (for non-major students)",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:50",
+    "room": "B203",
+    "instructor": "Seungwook Kim",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS220",
+    "title": "Intro to Decision Sciences",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "Online",
+    "instructor": "Chungseung Lee",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS326",
+    "title": "Organizational Behavior",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "Online",
+    "instructor": "Chih-mao Hsieh",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS330",
+    "title": "Principles of Finance",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "Online",
+    "instructor": "Joung Hwa Choi",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS346",
+    "title": "Operations Management",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "Online",
+    "instructor": "Chungseung Lee",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS348",
+    "title": "Principles of Marketing",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "Online",
+    "instructor": "Sungjoon Nam",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS348",
+    "title": "Principles of Marketing (for non-major students)",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "Online",
+    "instructor": "Sungjoon Nam",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS353",
+    "title": "Entrepreneurship",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "B105",
+    "instructor": "Chih-mao Hsieh",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS359",
+    "title": "Consumer Behavior",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE"
+    ],
+    "startTime": "14:00",
+    "endTime": "16:50",
+    "room": "C107",
+    "instructor": "Young-Won Ha",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS361",
+    "title": "Retail Management",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "B207",
+    "instructor": "Sungjoon Nam",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS365",
+    "title": "Financial Management",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "Online",
+    "instructor": "Joung Hwa Choi",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS447",
+    "title": "Business Ethics",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "13:20",
+    "room": "A117",
+    "instructor": "In Ki Joo",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  },
+  {
+    "major": "BUS",
+    "name": "BUS448",
+    "title": "Marketing Strategy",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "room": "A704",
+    "instructor": "KYUNG KU KIM",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bus/"
+  }
+]

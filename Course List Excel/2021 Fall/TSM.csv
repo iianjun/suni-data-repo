@@ -1,0 +1,21 @@
+name,title,type,credit,days,startTime,endTime,instructor,hasLab,room,link,major
+EST194,Decision-making,LEC,3,MW,17:00,18:20,Mark Whitaker,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST202,"Introduction to Science, Technology, and Society Studies",LEC,3,TUTH,15:30,16:50,Anthony Pennings,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST205,Introduction to Technological Design: Innovation and Design Thinking,LEC,3,TUTH,14:00,15:20,Neal Dreamson,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST230,Information and Communications Technology for Sustainable Development,LEC,3,MW,17:00,18:20,Anthony Pennings,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST280,Fundamentals of Industrial Engineering,LEC,3,TUTH,15:30,16:50,Clovia Hamilton,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST304,Communication for Engineers and Scientists,LEC,3,TUTH,12:30,13:50,Joseph Cabuay,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST305,Applications Software for Information Management,LEC,3,TUTH,12:30,13:50,Maurice Bess,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST310,Design of Computer Games,LEC,3,MW,10:30,11:50,Maurice Bess,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST320,Communication Technology Systems,LEC,3,TUTH,12:30,13:50,Anthony Pennings,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST326,Management for Engineers,LEC,3,TUTH,17:00,18:20,Joseph Cabuay,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST327,Marketing for Engineers,LEC,3,MW,14:00,15:20,Jang Lee,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST331,Engineering Ethics,LEC,3,TUTH,9:00,10:20,Clovia Hamilton,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST364,How to Build a Startup,LEC,3,MW,9:00,10:20,Suzana Brown,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST371,Data Science Management,LEC,3,MW,9:00,10:20,KYUNG KU KIM,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST372,The Mobile Revolution in Development,LEC,3,TUTH,15:30,16:50,Sira Maliphol,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST391,Technology Assessment,LEC,3,MW,10:30,11:50,Mark Whitaker,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST392,Engineering Economics,LEC,3,TUTH,17:00,18:20,Jin-sang Lee,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST393,Project Management,LEC,3,MW,17:00,18:20,Jang Lee,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST440,Interdisciplinary Research Methods,LEC,3,TUTH,10:30,11:50,Sira Maliphol,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM
+EST441,Interdisciplinary Senior Project,LEC,3,TUTH,10:30,11:50,Neal Dreamson,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/est/,TSM

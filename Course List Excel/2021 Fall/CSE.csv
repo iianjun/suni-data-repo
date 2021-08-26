@@ -1,0 +1,24 @@
+name,title,type,credit,days,startTime,endTime,instructor,hasLab,room,link,major
+CSE101,Computer Science Principles,LEC,3,TUTH,17:00,18:20,Alexander Kuhn,TRUE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE101,CSE
+CSE101,Computer Science Principles,LAB,3,M,12:30,13:50,Alexander Kuhn,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE101,CSE
+CSE114,Computer Science Principles,LEC,4,MW,14:00,15:20,Antonino Mione,TRUE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE114,CSE
+CSE114,Computer Science Principles,LAB,4,TUTH,14:00,15:20,Antonino Mione,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE114,CSE
+CSE214,Intro to Web Dsgn & Programmg,LEC,4,TUTH,14:00,15:20,Byungkon Kang,TRUE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE214,CSE
+CSE214,Intro to Web Dsgn & Programmg,REC,4,RECW,14:00,14:55,Byungkon Kang,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE214,CSE
+CSE215,Foundations of Computer Science,LEC,4,TUTH,12:30,13:50,Chi Him Wong,TRUE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE215,CSE
+CSE215,Foundations of Computer Science,REC,4,RETH,9:00,9:55,Chi Him Wong,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE215,CSE
+CSE216,Programming Abstractions,LEC,4,TUTH,14:00,15:20,Arthur Lee,TRUE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE216,CSE
+CSE216,Programming Abstractions,REC,4,RECW,14:00,14:55,Arthur Lee,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE216,CSE
+CSE220,Systems Fundamentals I,LEC,4,TUTH,10:30,11:50,AMOS OMONDI,TRUE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE220,CSE
+CSE200,Systems Fundamentals I,REC,4,RECM,12:30,13:25,AMOS OMONDI,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE220,CSE
+CSE300,Technical Communications,LEC,3,MW,15:30,16:50,AMOS OMONDI,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE300,CSE
+CSE300,Introduction to the Theory of Computation,LEC,3,TUTH,15:30,16:50,Chi Him Wong,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE300,CSE
+CSE304,Compiler Design,LEC,3,TUTH,10:30,11:50,Antonino Mione,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE304,CSE
+CSE306,Operating Systems,LEC,3,TUTH,17:00,18:20,YoungMin Kwon,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE306,CSE
+CSE310,Computer Networks,LEC,3,MW,10:30,11:50,Jihoon Ryoo,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE310,CSE
+CSE316,Fundamentals of Software Development,LEC,3,MW,17:00,18:20,Alexander Kuhn,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE316,CSE
+CSE320,Systems Fundamentals II,LEC,3,TUTH,12:30,13:50,YoungMin Kwon,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE320,CSE
+CSE352,Artificial Intelligence,LEC,3,MW,14:00,15:20,Seung Soo Park,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE352,CSE
+CSE353,Machine Learning,LEC,3,MW,9:00,10:20,Byungkon Kang,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE353,CSE
+CSE373,Analysis of Algorithms,LEC,3,TUTH,14:00,15:20,Jihoon Ryoo,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE373,CSE
+CSE416,Software Engineering,LEC,3,TUTH,14:00,15:20,Alexander Kuhn,FALSE,TBA,https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE416,CSE

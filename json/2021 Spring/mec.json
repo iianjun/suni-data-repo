@@ -1,0 +1,284 @@
+[
+  {
+    "major": "MEC",
+    "name": "MEC101",
+    "title": "Freshman Design Innovation",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:50",
+    "room": "B105",
+    "instructor": "Eugene Pak",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC102",
+    "title": "Engrg Computg & Prob Solvg",
+    "type": "LEC",
+    "credit": 2,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "14:00",
+    "endTime": "14:53",
+    "room": "B203",
+    "instructor": "Cornelius Bradter",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC203",
+    "title": "Eng Graphics and CAD",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "B103",
+    "instructor": "Jong Park",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC262",
+    "title": "Engineering Dynamics",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:50",
+    "room": "B207",
+    "instructor": "Min Yang Yang",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC262",
+    "title": "Engineering Dynamics",
+    "type": "REC",
+    "credit": 3,
+    "days": [
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:23",
+    "room": "B207",
+    "instructor": "Min Yang Yang",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC300",
+    "title": "Professional Engr. Conduct",
+    "type": "LEC",
+    "credit": 2,
+    "days": [
+      "MON"
+    ],
+    "startTime": "9:30",
+    "endTime": "11:20",
+    "room": "B206",
+    "instructor": "TBD",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC305",
+    "title": "Heat and Mass Transfer",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "A116",
+    "instructor": "Gun Woong Bahng",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC305",
+    "title": "Heat and Mass Transfer",
+    "type": "REC",
+    "credit": 3,
+    "days": [
+      "WED"
+    ],
+    "startTime": "17:00",
+    "endTime": "17:53",
+    "room": "A116",
+    "instructor": "Gun Woong Bahng",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC317",
+    "title": "Thermal-Fluids Lab",
+    "type": "LEC",
+    "credit": 2,
+    "days": [
+      "WED"
+    ],
+    "startTime": "14:00",
+    "endTime": "14:53",
+    "room": "B314",
+    "instructor": "Changwoon Han",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC317",
+    "title": "Thermal-Fluids Lab",
+    "type": "LAB",
+    "credit": 2,
+    "days": [
+      "MON"
+    ],
+    "startTime": "12:30",
+    "endTime": "15:20",
+    "room": "C605",
+    "instructor": "Changwoon Han",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC363",
+    "title": "Mechanics of Solids",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "B204",
+    "instructor": "JONGSEONG CHOI",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC363",
+    "title": "Mechanics of Solids",
+    "type": "REC",
+    "credit": 3,
+    "days": [
+      "TUE"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:23",
+    "room": "B204",
+    "instructor": "JONGSEONG CHOI",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC410",
+    "title": "Design of Machine Elmnt",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:50",
+    "room": "B314",
+    "instructor": "Jong Park",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC411",
+    "title": "Control Syst Analysis & Design",
+    "type": "LEC",
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "B206",
+    "instructor": "Changwoon Han",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC411",
+    "title": "Control Syst Analysis & Design",
+    "type": "LAB",
+    "credit": 4,
+    "days": [
+      "WED"
+    ],
+    "startTime": "9:00",
+    "endTime": "11:50",
+    "room": "B206",
+    "instructor": "Changwoon Han",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC440",
+    "title": "Mechanical Engnrng Design I",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "A312",
+    "instructor": "Eugene Pak",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  },
+  {
+    "major": "MEC",
+    "name": "MEC450",
+    "title": "Mechatronics",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "B206",
+    "instructor": "Seung Bok Choi",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mec/"
+  }
+]

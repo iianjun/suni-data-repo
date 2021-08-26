@@ -1,0 +1,15 @@
+name,title,type,credit,days,startTime,endTime,instructor,hasLab,room,link,major
+MEC101,Freshman Design Innovation,LEC,3,TUTH,12:30,13:50,Eugene Pak,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC203,Engineering Graphics and CAD,LEC,3,TH,14:00,16:50,Jong Park,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC226,Modern Machining Practices,LAB,1,TH,12:00,13:50,TBA,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC301,Thermodynamics,LEC,3,TUTH,15:30,16:50,JONGSEONG CHOI,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC310,Introduction to Machine Design,LEC,3,TUTH,10:30,11:50,Changwoon Han,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC316,Instrumentation and Solid Mechanics Laboratory,LAB,2,W,9:00,11:50,Changwoon Han,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC320,Numerical Methods in Engineering Design and Analysis,LEC,3,MW,14:00,15:20,JONGSEONG CHOI,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC325,Manufacturing Processes,LEC,3,MW,15:30,16:50,Min Yang Yang,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC364,Introduction to Fluid Mechanics,LEC,3,TUTH,14:00,15:20,Hamid Hefazi,TRUE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC364,Introduction to Fluid Mechanics,REC,3,RECW,17:00,17:55,Hamid Hefazi,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC402,Mechanical Vibrations,LEC,3,MW,14:00,15:20,Seung Bok Choi,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC422,Thermal System Design,LEC,3,MW,17:00,18:20,Gun Woong Bahng,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC441,Mechanical Engineering Design II,LEC,3,TUTH,14:00,15:20,Bruce Jo,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
+MEC455,Applied Stress Analysis,LEC,3,MW,15:30,16:50,Eugene Pak,FALSE,TBA,https://www.stonybrook.edu/sb/bulletin/current/courses/mec/,MEC
