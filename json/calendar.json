@@ -1,238 +1,335 @@
-[ {
-  "contents" : [ "" ],
-  "date" : "",
-  "holiday" : false,
-  "minimum" : "2021-02-01",
-  "title" : [ "" ]
-}, {
-  "contents" : [ "Last day students can re-matriculate ($50 fee) for the Spring 2021 semesters" ],
-  "date" : "2021-02-12",
-  "holiday" : false,
-  "title" : [ "Rematriculation" ]
-}, {
-  "contents" : [ "3:00 pm" ],
-  "date" : "2021-02-19",
-  "holiday" : false,
-  "title" : [ "Convocation" ]
-}, {
-  "contents" : [ "Last day students can drop all classes via SOLAR" ],
-  "date" : "2021-02-21",
-  "holiday" : false,
-  "title" : [ "Semester Cancellation" ]
-}, {
-  "contents" : [ "First day of classes", "$50 fee if not enrolled in at least one class before semester start" ],
-  "date" : "2021-02-22",
-  "holiday" : false,
-  "title" : [ "Semester Start", "Late Registration" ]
-}, {
-  "contents" : [ "Last day to waitlist a class. Students are responsible for any tuition liability incurred if registered from a waitlisted class" ],
-  "date" : "2021-02-26",
-  "holiday" : false,
-  "title" : [ "Waitlist" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-03-01",
-  "holiday" : true,
-  "title" : [ "Independence Movement Day" ]
-}, {
-  "contents" : [ "Last day to process enrollment changes (adds, swaps, credit changes) via SOLAR. Last day to drop or submit LOA/Term Withdrawal without a 'W' (withdraw) recorded on transcript. Graduate Students Petition to the Graduate School to process a drop/withdrawal after this date", "Last day to petition to the Graduate School", "Last day to be enrolled from the waitlist process pending seat availability. Students must contact the appropriate academic department after this date" ],
-  "date" : "2021-03-08",
-  "holiday" : false,
-  "title" : [ "Late Registration Ends", "Ugrd. Students enrolling in Grad courses", "Waitlist Process Ends" ]
-}, {
-  "contents" : [ "Last day for Spring and Summer degree candidates to apply for graduation via SOLAR", "Last day to submit a Section/Credit Change Form. Changes must be processed by 4:00 PM. After this date petition is required and 'W' (withdrawal) will be recorded on transcript", "Last day students can select Grade/Pass/No Credit (GPNC). Changes must be processed by 4:00 PM. Non- petitionable", "Last day students can process a withdrawal from individual course(s) via SOLAR. 'W' (withdrawal) will be recorded on transcript. Changes must be processed by 4:00 pm" ],
-  "date" : "2021-04-23",
-  "holiday" : false,
-  "title" : [ "Graduation Application", "Section/Credit Change Form", "GPNC", "Course Withdrawal" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-05-04",
-  "holiday" : true,
-  "title" : [ "Adjustment Day" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-05-05",
-  "holiday" : true,
-  "title" : [ "Children’s day" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-05-06",
-  "holiday" : true,
-  "title" : [ "Adjustment Day" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-05-07",
-  "holiday" : true,
-  "title" : [ "Adjustment Day" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-05-08",
-  "holiday" : true,
-  "title" : [ "Adjustment Day" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-05-19",
-  "holiday" : true,
-  "title" : [ "Buddha's Birthday" ]
-}, {
-  "contents" : [ "Classes follow Wednesday’s schedule (No Monday classes in session)", "Last day to take a leave of absence or withdraw from the University. Students must submit the Semester Withdrawal Form", "Last day of classes" ],
-  "date" : "2021-06-07",
-  "holiday" : false,
-  "title" : [ "Correction Day", "LOA/Term Withdrawal", "Classes End" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-06-08",
-  "holiday" : true,
-  "title" : [ "Reading Day" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-06-09",
-  "holiday" : true,
-  "title" : [ "Reading Day" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-06-10",
-  "holiday" : true,
-  "title" : [ "Reading Day" ]
-}, {
-  "contents" : [ "" ],
-  "date" : "2021-06-11",
-  "holiday" : false,
-  "title" : [ "FINAL" ]
-}, {
-  "contents" : [ "" ],
-  "date" : "2021-06-14",
-  "holiday" : false,
-  "title" : [ "FINAL" ]
-}, {
-  "contents" : [ "" ],
-  "date" : "2021-06-15",
-  "holiday" : false,
-  "title" : [ "FINAL" ]
-}, {
-  "contents" : [ "" ],
-  "date" : "2021-06-16",
-  "holiday" : false,
-  "title" : [ "FINAL" ]
-}, {
-  "contents" : [ "", "Official end of term" ],
-  "date" : "2021-06-17",
-  "holiday" : false,
-  "title" : [ "FINAL", "Semester End" ]
-}, {
-  "contents" : [ "3:00 pm" ],
-  "date" : "2021-06-18",
-  "holiday" : false,
-  "title" : [ "Commencement" ]
-}, {
-  "contents" : [ "Last day students can re-matriculate ($50) for the Fall 2021 semesters." ],
-  "date" : "2021-08-20",
-  "holiday" : false,
-  "title" : [ "Rematriculation" ]
-}, {
-  "contents" : [ "3:00 PM" ],
-  "date" : "2021-08-27",
-  "holiday" : false,
-  "title" : [ "Convocation" ]
-}, {
-  "contents" : [ "Last day students can drop all classes via SOLAR." ],
-  "date" : "2021-08-29",
-  "holiday" : false,
-  "title" : [ "Semester Cancellation" ]
-}, {
-  "contents" : [ "First day of Monday classes", "$50 fee if not enrolled in at least one class before semester start." ],
-  "date" : "2021-08-30",
-  "holiday" : false,
-  "title" : [ "Semester Start", "Late Registration" ]
-}, {
-  "contents" : [ "Last day to process enrollment changes (adds, swaps, credit changes) via SOLAR. Last day to drop or submit LOA/Term Withdrawal without a \"W\" (withdraw) recorded on transcript.", "Last day to petition to the Graduate School" ],
-  "date" : "2021-09-10",
-  "holiday" : false,
-  "title" : [ "Late Registration Ends", "Ugrd. Students enrolling in Grad courses" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-09-20",
-  "holiday" : true,
-  "title" : [ "Chuseok (Korean Thanksgiving)" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-09-21",
-  "holiday" : true,
-  "title" : [ "Chuseok (Korean Thanksgiving)" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-09-22",
-  "holiday" : true,
-  "title" : [ "Chuseok (Korean Thanksgiving)" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-10-04",
-  "holiday" : true,
-  "title" : [ "Substitute of Korea National Foundation Day" ]
-}, {
-  "contents" : [ "Classes follow Monday’s schedule" ],
-  "date" : "2021-10-08",
-  "holiday" : false,
-  "title" : [ "Correction Day" ]
-}, {
-  "contents" : [ "No classes in session" ],
-  "date" : "2021-10-11",
-  "holiday" : true,
-  "title" : [ "Substitute of Hangul Day" ]
-}, {
-  "contents" : [ "Last day for Fall and Winter degree candidates to apply for graduation via SOLAR" ],
-  "date" : "2021-10-22",
-  "holiday" : false,
-  "title" : [ "Graduation Application" ]
-}, {
-  "contents" : [ "Last day to submit a Section/Credit Change Form. Changes must be processed by 4:00 PM. After this date petition is required and \"W\" (withdrawal) will be recorded on transcript", "Last day students can select Grade/Pass/No Credit (GPNC). Changes must be processed by 4:00 PM. Non- petitionable.", "Last day students can process a withdrawal from individual course(s) via SOLAR. \"W\" (withdrawal) will be recorded on transcript. Changes must be processed by 4:00 pm" ],
-  "date" : "2021-10-29",
-  "holiday" : false,
-  "title" : [ "Section/Credit Change Form", "GPNC", "Course Withdrawal" ]
-}, {
-  "contents" : [ "Classes follow Monday’s schedule" ],
-  "date" : "2021-12-09",
-  "holiday" : false,
-  "title" : [ "Correction Day" ]
-}, {
-  "contents" : [ "Last day to take a leave of absence or withdraw from the University. Students must submit the Semester Withdrawal Form", "Last day of classes" ],
-  "date" : "2021-12-10",
-  "holiday" : false,
-  "title" : [ "LOA/Term Withdrawal", "Classes End" ]
-}, {
-  "contents" : [ "" ],
-  "date" : "2021-12-13",
-  "holiday" : false,
-  "title" : [ "Finals" ]
-}, {
-  "contents" : [ "" ],
-  "date" : "2021-12-14",
-  "holiday" : false,
-  "title" : [ "Finals" ]
-}, {
-  "contents" : [ "" ],
-  "date" : "2021-12-15",
-  "holiday" : false,
-  "title" : [ "Finals" ]
-}, {
-  "contents" : [ "" ],
-  "date" : "2021-12-16",
-  "holiday" : false,
-  "title" : [ "Finals" ]
-}, {
-  "contents" : [ "", "Official end of term" ],
-  "date" : "2021-12-17",
-  "holiday" : false,
-  "title" : [ "Finals", "Semester End" ]
-}, {
-  "contents" : [ "11:00 AM" ],
-  "date" : "2021-12-18",
-  "holiday" : false,
-  "title" : [ "Commencement" ]
-}, {
-  "contents" : [ "" ],
-  "date" : "",
-  "holiday" : false,
-  "maximum" : "2021-12-31",
-  "title" : [ "" ]
-} ]
+[
+  {
+    "contents": [""],
+    "date": "",
+    "holiday": false,
+    "minimum": "2021-02-01",
+    "title": [""]
+  },
+  {
+    "contents": [
+      "Last day students can re-matriculate ($50 fee) for the Spring 2021 semesters"
+    ],
+    "date": "2021-02-12",
+    "holiday": false,
+    "title": ["Rematriculation"]
+  },
+  {
+    "contents": ["3:00 pm"],
+    "date": "2021-02-19",
+    "holiday": false,
+    "title": ["Convocation"]
+  },
+  {
+    "contents": ["Last day students can drop all classes via SOLAR"],
+    "date": "2021-02-21",
+    "holiday": false,
+    "title": ["Semester Cancellation"]
+  },
+  {
+    "contents": [
+      "First day of classes",
+      "$50 fee if not enrolled in at least one class before semester start"
+    ],
+    "date": "2021-02-22",
+    "holiday": false,
+    "title": ["Semester Start", "Late Registration"]
+  },
+  {
+    "contents": [
+      "Last day to waitlist a class. Students are responsible for any tuition liability incurred if registered from a waitlisted class"
+    ],
+    "date": "2021-02-26",
+    "holiday": false,
+    "title": ["Waitlist"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-03-01",
+    "holiday": true,
+    "title": ["Independence Movement Day"]
+  },
+  {
+    "contents": [
+      "Last day to process enrollment changes (adds, swaps, credit changes) via SOLAR. Last day to drop or submit LOA/Term Withdrawal without a 'W' (withdraw) recorded on transcript. Graduate Students Petition to the Graduate School to process a drop/withdrawal after this date",
+      "Last day to petition to the Graduate School",
+      "Last day to be enrolled from the waitlist process pending seat availability. Students must contact the appropriate academic department after this date"
+    ],
+    "date": "2021-03-08",
+    "holiday": false,
+    "title": [
+      "Late Registration Ends",
+      "Ugrd. Students enrolling in Grad courses",
+      "Waitlist Process Ends"
+    ]
+  },
+  {
+    "contents": [
+      "Last day for Spring and Summer degree candidates to apply for graduation via SOLAR",
+      "Last day to submit a Section/Credit Change Form. Changes must be processed by 4:00 PM. After this date petition is required and 'W' (withdrawal) will be recorded on transcript",
+      "Last day students can select Grade/Pass/No Credit (GPNC). Changes must be processed by 4:00 PM. Non- petitionable",
+      "Last day students can process a withdrawal from individual course(s) via SOLAR. 'W' (withdrawal) will be recorded on transcript. Changes must be processed by 4:00 pm"
+    ],
+    "date": "2021-04-23",
+    "holiday": false,
+    "title": [
+      "Graduation Application",
+      "Section/Credit Change Form",
+      "GPNC",
+      "Course Withdrawal"
+    ]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-05-04",
+    "holiday": true,
+    "title": ["Adjustment Day"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-05-05",
+    "holiday": true,
+    "title": ["Children’s day"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-05-06",
+    "holiday": true,
+    "title": ["Adjustment Day"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-05-07",
+    "holiday": true,
+    "title": ["Adjustment Day"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-05-08",
+    "holiday": true,
+    "title": ["Adjustment Day"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-05-19",
+    "holiday": true,
+    "title": ["Buddha's Birthday"]
+  },
+  {
+    "contents": [
+      "Classes follow Wednesday’s schedule (No Monday classes in session)",
+      "Last day to take a leave of absence or withdraw from the University. Students must submit the Semester Withdrawal Form",
+      "Last day of classes"
+    ],
+    "date": "2021-06-07",
+    "holiday": false,
+    "title": ["Correction Day", "LOA/Term Withdrawal", "Classes End"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-06-08",
+    "holiday": true,
+    "title": ["Reading Day"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-06-09",
+    "holiday": true,
+    "title": ["Reading Day"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-06-10",
+    "holiday": true,
+    "title": ["Reading Day"]
+  },
+  {
+    "contents": [""],
+    "date": "2021-06-11",
+    "holiday": false,
+    "title": ["FINAL"]
+  },
+  {
+    "contents": [""],
+    "date": "2021-06-14",
+    "holiday": false,
+    "title": ["FINAL"]
+  },
+  {
+    "contents": [""],
+    "date": "2021-06-15",
+    "holiday": false,
+    "title": ["FINAL"]
+  },
+  {
+    "contents": [""],
+    "date": "2021-06-16",
+    "holiday": false,
+    "title": ["FINAL"]
+  },
+  {
+    "contents": ["", "Official end of term"],
+    "date": "2021-06-17",
+    "holiday": false,
+    "title": ["FINAL", "Semester End"]
+  },
+  {
+    "contents": ["3:00 pm"],
+    "date": "2021-06-18",
+    "holiday": false,
+    "title": ["Commencement"]
+  },
+  {
+    "contents": [
+      "Last day students can re-matriculate ($50) for the Fall 2021 semesters."
+    ],
+    "date": "2021-08-20",
+    "holiday": false,
+    "title": ["Rematriculation"]
+  },
+  {
+    "contents": ["3:00 PM"],
+    "date": "2021-08-27",
+    "holiday": false,
+    "title": ["Convocation"]
+  },
+  {
+    "contents": ["Last day students can drop all classes via SOLAR."],
+    "date": "2021-08-29",
+    "holiday": false,
+    "title": ["Semester Cancellation"]
+  },
+  {
+    "contents": [
+      "First day of Monday classes",
+      "$50 fee if not enrolled in at least one class before semester start."
+    ],
+    "date": "2021-08-30",
+    "holiday": false,
+    "title": ["Semester Start", "Late Registration"]
+  },
+  {
+    "contents": [
+      "Last day to process enrollment changes (adds, swaps, credit changes) via SOLAR. Last day to drop or submit LOA/Term Withdrawal without a \"W\" (withdraw) recorded on transcript.",
+      "Last day to petition to the Graduate School"
+    ],
+    "date": "2021-09-10",
+    "holiday": false,
+    "title": [
+      "Late Registration Ends",
+      "Ugrd. Students enrolling in Grad courses"
+    ]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-09-20",
+    "holiday": true,
+    "title": ["Chuseok (Korean Thanksgiving)"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-09-21",
+    "holiday": true,
+    "title": ["Chuseok (Korean Thanksgiving)"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-09-22",
+    "holiday": true,
+    "title": ["Chuseok (Korean Thanksgiving)"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-10-04",
+    "holiday": true,
+    "title": ["Substitute of Korea National Foundation Day"]
+  },
+  {
+    "contents": ["Classes follow Monday’s schedule"],
+    "date": "2021-10-08",
+    "holiday": false,
+    "title": ["Correction Day"]
+  },
+  {
+    "contents": ["No classes in session"],
+    "date": "2021-10-11",
+    "holiday": true,
+    "title": ["Substitute of Hangul Day"]
+  },
+  {
+    "contents": [
+      "Last day for Fall and Winter degree candidates to apply for graduation via SOLAR"
+    ],
+    "date": "2021-10-22",
+    "holiday": false,
+    "title": ["Graduation Application"]
+  },
+  {
+    "contents": [
+      "Last day to submit a Section/Credit Change Form. Changes must be processed by 4:00 PM. After this date petition is required and \"W\" (withdrawal) will be recorded on transcript",
+      "Last day students can select Grade/Pass/No Credit (GPNC). Changes must be processed by 4:00 PM. Non- petitionable.",
+      "Last day students can process a withdrawal from individual course(s) via SOLAR. \"W\" (withdrawal) will be recorded on transcript. Changes must be processed by 4:00 pm"
+    ],
+    "date": "2021-10-29",
+    "holiday": false,
+    "title": ["Section/Credit Change Form", "GPNC", "Course Withdrawal"]
+  },
+  {
+    "contents": ["Classes follow Monday’s schedule"],
+    "date": "2021-12-09",
+    "holiday": false,
+    "title": ["Correction Day"]
+  },
+  {
+    "contents": [
+      "Last day to take a leave of absence or withdraw from the University. Students must submit the Semester Withdrawal Form",
+      "Last day of classes"
+    ],
+    "date": "2021-12-10",
+    "holiday": false,
+    "title": ["LOA/Term Withdrawal", "Classes End"]
+  },
+  {
+    "contents": [""],
+    "date": "2021-12-13",
+    "holiday": false,
+    "title": ["Finals"]
+  },
+  {
+    "contents": [""],
+    "date": "2021-12-14",
+    "holiday": false,
+    "title": ["Finals"]
+  },
+  {
+    "contents": [""],
+    "date": "2021-12-15",
+    "holiday": false,
+    "title": ["Finals"]
+  },
+  {
+    "contents": [""],
+    "date": "2021-12-16",
+    "holiday": false,
+    "title": ["Finals"]
+  },
+  {
+    "contents": ["", "Official end of term"],
+    "date": "2021-12-17",
+    "holiday": false,
+    "title": ["Finals", "Semester End"]
+  },
+  {
+    "contents": ["11:00 AM"],
+    "date": "2021-12-18",
+    "holiday": false,
+    "title": ["Commencement"]
+  },
+  {
+    "contents": [""],
+    "date": "",
+    "holiday": false,
+    "maximum": "2021-12-31",
+    "title": [""]
+  }
+]

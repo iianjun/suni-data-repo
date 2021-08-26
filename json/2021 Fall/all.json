@@ -714,6 +714,20 @@
     "major": "CSE"
   },
   {
+    "name": "CSE416",
+    "title": "Analysis of Algorithms",
+    "type": "LEC",
+    "credit": 3,
+    "days": ["TUE", "THU"],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "instructor": "Alexander Kuhn",
+    "hasLab": false,
+    "room": "TBA",
+    "link": "https://sunyk.cs.stonybrook.edu/students/Undergraduate-Studies/courses/CSE416",
+    "major": "CSE"
+  },
+  {
     "name": "MEC101",
     "title": "Freshman Design Innovation",
     "type": "LEC",
