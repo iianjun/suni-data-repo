@@ -1,0 +1,1156 @@
+[
+  {
+    "major": "ETC",
+    "name": "ARS205",
+    "title": "Foundations: Idea and Form",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "FRI"
+    ],
+    "startTime": "9:00",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Rachel Stuckey",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/ars/"
+  },
+  {
+    "major": "ETC",
+    "name": "ARS225",
+    "title": "Introduction to Digital Art",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "WED"
+    ],
+    "startTime": "9:00",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Rachel Stuckey",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/ars/"
+  },
+  {
+    "major": "ETC",
+    "name": "ARS225",
+    "title": "Introduction to Digital Art",
+    "type": "LAB",
+    "credit": 3,
+    "days": [
+      "FRI"
+    ],
+    "startTime": "12:30",
+    "endTime": "15:20",
+    "room": "online",
+    "instructor": "Rachel Stuckey",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/ars/"
+  },
+  {
+    "major": "ETC",
+    "name": "ATM102",
+    "title": "Weather and Climate",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "FRI"
+    ],
+    "startTime": "12:30",
+    "endTime": "15:20",
+    "room": "online",
+    "instructor": "Seon Ki Park",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/atm/"
+  },
+  {
+    "major": "ETC",
+    "name": "BIO201",
+    "title": "Organisms to Ecosystems",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "room": "online",
+    "instructor": "Claire Louise Dell",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/bio/"
+  },
+  {
+    "major": "ETC",
+    "name": "CAR110",
+    "title": "Career Development and Major Decision Making",
+    "type": "SEM",
+    "credit": 2,
+    "days": [
+      "FRI"
+    ],
+    "startTime": "10:00",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Sunghyun Lee",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/car/"
+  },
+  {
+    "major": "ETC",
+    "name": "CHI111",
+    "title": "Elementary Chinese I",
+    "type": "LEC",
+    "number": 90,
+    "credit": 4,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "online",
+    "instructor": "Mengyang Jia",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/chi/"
+  },
+  {
+    "major": "ETC",
+    "name": "CHI111",
+    "title": "Elementary Chinese I",
+    "type": "REC",
+    "number": 90,
+    "credit": 4,
+    "days": [
+      "MON"
+    ],
+    "startTime": "18:30",
+    "endTime": "19:25",
+    "room": "online",
+    "instructor": "Mengyang Jia",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/chi/"
+  },
+  {
+    "major": "ETC",
+    "name": "CHI111",
+    "title": "Elementary Chinese I",
+    "type": "LEC",
+    "number": 91,
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "online",
+    "instructor": "Mengyang Jia",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/chi/"
+  },
+  {
+    "major": "ETC",
+    "name": "CHI111",
+    "title": "Elementary Chinese I",
+    "type": "REC",
+    "number": 91,
+    "credit": 4,
+    "days": [
+      "TUE"
+    ],
+    "startTime": "17:00",
+    "endTime": "17:55",
+    "room": "online",
+    "instructor": "Mengyang Jia",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/chi/"
+  },
+  {
+    "major": "ETC",
+    "name": "CHI111",
+    "title": "Elementary Chinese I",
+    "type": "LEC",
+    "number": 92,
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Mengyang Jia",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/chi/"
+  },
+  {
+    "major": "ETC",
+    "name": "CHI111",
+    "title": "Elementary Chinese I",
+    "type": "REC",
+    "number": 92,
+    "credit": 4,
+    "days": [
+      "THU"
+    ],
+    "startTime": "9:30",
+    "endTime": "10:25",
+    "room": "online",
+    "instructor": "Mengyang Jia",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/chi/"
+  },
+  {
+    "major": "ETC",
+    "name": "CHI112",
+    "title": "Elementary Chinese II",
+    "type": "LEC",
+    "credit": 4,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "room": "online",
+    "instructor": "Mengyang Jia",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/chi/"
+  },
+  {
+    "major": "ETC",
+    "name": "CHI112",
+    "title": "Elementary Chinese II",
+    "type": "REC",
+    "credit": 4,
+    "days": [
+      "MON"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:23",
+    "room": "online",
+    "instructor": "Mengyang Jia",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/chi/"
+  },
+  {
+    "major": "ETC",
+    "name": "ECO108",
+    "title": "Introduction to Economics",
+    "type": "LEC",
+    "number": 90,
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Jong Seok Kim",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/eco/"
+  },
+  {
+    "major": "ETC",
+    "name": "ECO108",
+    "title": "Introduction to Economics",
+    "type": "REC",
+    "number": 90,
+    "credit": 4,
+    "days": [
+      "THU"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:25",
+    "room": "online",
+    "instructor": "Jong Seok Kim",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/eco/"
+  },
+  {
+    "major": "ETC",
+    "name": "ECO108",
+    "title": "Introduction to Economics",
+    "type": "LEC",
+    "number": 91,
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "online",
+    "instructor": "Jong Seok Kim",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/eco/"
+  },
+  {
+    "major": "ETC",
+    "name": "ECO108",
+    "title": "Introduction to Economics",
+    "type": "REC",
+    "number": 91,
+    "credit": 4,
+    "days": [
+      "TUE"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:25",
+    "room": "online",
+    "instructor": "Jong Seok Kim",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/eco/"
+  },
+  {
+    "major": "ETC",
+    "name": "ESG198",
+    "title": "Fundmntls of Engineering Chem",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Woong Moo Lee",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/esg/"
+  },
+  {
+    "major": "ETC",
+    "name": "FLM102",
+    "title": "Intro to Film/TV Composition",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "FRI"
+    ],
+    "startTime": "12:30",
+    "endTime": "15:20",
+    "room": "online",
+    "instructor": "Sun Park",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/esg/"
+  },
+  {
+    "major": "ETC",
+    "name": "FLM102",
+    "title": "Intro to Film/TV Composition",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "FRI"
+    ],
+    "startTime": "9:00",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Sun Park",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/esg/"
+  },
+  {
+    "major": "ETC",
+    "name": "HIS104",
+    "title": "United States Since 1877",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:25",
+    "room": "online",
+    "instructor": "Donald Bellomy",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/his/"
+  },
+  {
+    "major": "ETC",
+    "name": "HIS104",
+    "title": "United States Since 1877",
+    "type": "REC",
+    "credit": 3,
+    "days": [
+      "THU"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:25",
+    "room": "online",
+    "instructor": "Donald Bellomy",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/his/"
+  },
+  {
+    "major": "ETC",
+    "name": "HIS238",
+    "title": "Sci, Tech, Med in West Civ II",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "room": "online",
+    "instructor": "Donald Bellomy",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/his/"
+  },
+  {
+    "major": "ETC",
+    "name": "KOR111",
+    "title": "Elementary Korean I",
+    "type": "LEC",
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "online",
+    "instructor": "Hea Hur",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/kor/"
+  },
+  {
+    "major": "ETC",
+    "name": "KOR111",
+    "title": "Elementary Korean I",
+    "type": "REC",
+    "credit": 4,
+    "days": [
+      "TUE"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:25",
+    "room": "online",
+    "instructor": "Hea Hur",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/kor/"
+  },
+  {
+    "major": "ETC",
+    "name": "KOR112",
+    "title": "Elementary Korean II",
+    "type": "LEC",
+    "credit": 4,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "online",
+    "instructor": "Hea Hur",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/kor/"
+  },
+  {
+    "major": "ETC",
+    "name": "KOR112",
+    "title": "Elementary Korean II",
+    "type": "REC",
+    "credit": 4,
+    "days": [
+      "THU"
+    ],
+    "startTime": "16:00",
+    "endTime": "16:55",
+    "room": "online",
+    "instructor": "Hea Hur",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/kor/"
+  },
+  {
+    "major": "ETC",
+    "name": "KOR220",
+    "title": "Intermediate Heritage Korean",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON"
+    ],
+    "startTime": "9:00",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Koksuk Seo",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/kor/"
+  },
+  {
+    "major": "ETC",
+    "name": "KOR220",
+    "title": "Intermediate Heritage Korean",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON"
+    ],
+    "startTime": "12:00",
+    "endTime": "14:50",
+    "room": "online",
+    "instructor": "Koksuk Seo",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/kor/"
+  },
+  {
+    "major": "ETC",
+    "name": "MAP103",
+    "title": "Proficiency Algebra",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Sang Hee Park",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/map/"
+  },
+  {
+    "major": "ETC",
+    "name": "MAT122",
+    "title": "Overview of Calculus with Appl",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Jaeyeong Lee",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mat/"
+  },
+  {
+    "major": "ETC",
+    "name": "MAT122",
+    "title": "Overview of Calculus with Appl",
+    "type": "REC",
+    "credit": 3,
+    "days": [
+      "MON"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:25",
+    "room": "online",
+    "instructor": "Jaeyeong Lee",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mat/"
+  },
+  {
+    "major": "ETC",
+    "name": "MAT123",
+    "title": "Precalculus",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "17:00",
+    "endTime": "18:20",
+    "room": "online",
+    "instructor": "Young-seon Lee",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mat/"
+  },
+  {
+    "major": "ETC",
+    "name": "MAT123",
+    "title": "Precalculus",
+    "type": "REC",
+    "credit": 3,
+    "days": [
+      "MON"
+    ],
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "room": "online",
+    "instructor": "Young-seon Lee",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mat/"
+  },
+  {
+    "major": "ETC",
+    "name": "MUS105",
+    "title": "Music Cultures of the World",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE"
+    ],
+    "startTime": "9:30",
+    "endTime": "12:20",
+    "room": "online",
+    "instructor": "Soojin Kim",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/mus/"
+  },
+  {
+    "major": "ETC",
+    "name": "PHY131",
+    "title": "Classical Physics I",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Mackenzie Lenz",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/phy/"
+  },
+  {
+    "major": "ETC",
+    "name": "PHY131",
+    "title": "Classical Physics I",
+    "type": "REC",
+    "credit": 3,
+    "days": [
+      "WED"
+    ],
+    "startTime": "9:30",
+    "endTime": "10:25",
+    "room": "online",
+    "instructor": "Mackenzie Lenz",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/phy/"
+  },
+  {
+    "major": "ETC",
+    "name": "PHY132",
+    "title": "Classical Physics II",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "room": "online",
+    "instructor": "Mackenzie Lenz",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/phy/"
+  },
+  {
+    "major": "ETC",
+    "name": "PHY132",
+    "title": "Classical Physics II",
+    "type": "REC",
+    "credit": 3,
+    "days": [
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:25",
+    "room": "online",
+    "instructor": "Mackenzie Lenz",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/phy/"
+  },
+  {
+    "major": "ETC",
+    "name": "PHY133",
+    "title": "Classical Physics Laboratory I",
+    "type": "LAB",
+    "credit": 1,
+    "days": [
+      "FRI"
+    ],
+    "startTime": "11:30",
+    "endTime": "13:50",
+    "room": "online",
+    "instructor": "Mackenzie Lenz",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/phy/"
+  },
+  {
+    "major": "ETC",
+    "name": "PHY133",
+    "title": "Classical Physics Laboratory I",
+    "type": "LAB",
+    "credit": 1,
+    "days": [
+      "FRI"
+    ],
+    "startTime": "9:00",
+    "endTime": "11:20",
+    "room": "online",
+    "instructor": "Mackenzie Lenz",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/phy/"
+  },
+  {
+    "major": "ETC",
+    "name": "PHY134",
+    "title": "Classical Physics Lab II",
+    "type": "LAB",
+    "credit": 1,
+    "days": [
+      "FRI"
+    ],
+    "startTime": "14:00",
+    "endTime": "16:20",
+    "room": "online",
+    "instructor": "Mackenzie Lenz",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/phy/"
+  },
+  {
+    "major": "ETC",
+    "name": "POL101",
+    "title": "World Politics",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "WED"
+    ],
+    "startTime": "9:00",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Won Geun Choi",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/pol/"
+  },
+  {
+    "major": "ETC",
+    "name": "POL102",
+    "title": "Intro to American Government",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "online",
+    "instructor": "Jung-Min Hong",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/pol/"
+  },
+  {
+    "major": "ETC",
+    "name": "SOC247",
+    "title": "Sociology of Gender",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "FRI"
+    ],
+    "startTime": "15:00",
+    "endTime": "17:50",
+    "room": "online",
+    "instructor": "Juhyun Woo",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/soc/"
+  },
+  {
+    "major": "ETC",
+    "name": "SUS206",
+    "title": "Economics and Sustainability",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "12:30",
+    "endTime": "13:25",
+    "room": "online",
+    "instructor": "Young June Kwon",
+    "hasLab": true,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/sus/"
+  },
+  {
+    "major": "ETC",
+    "name": "SUS206",
+    "title": "Economics and Sustainability",
+    "type": "REC",
+    "credit": 3,
+    "days": [
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "14:55",
+    "room": "online",
+    "instructor": "Young June Kwon",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/sus/"
+  },
+  {
+    "major": "ETC",
+    "name": "WAE192",
+    "title": "High Intermediate Writing",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Hyun-ju Kim",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wae/"
+  },
+  {
+    "major": "ETC",
+    "name": "WAE192",
+    "title": "High Intermediate Writing",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "online",
+    "instructor": "Hyun-ju Kim",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wae/"
+  },
+  {
+    "major": "ETC",
+    "name": "WAE192",
+    "title": "High Intermediate Writing",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "online",
+    "instructor": "Hyun-ju Kim",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wae/"
+  },
+  {
+    "major": "ETC",
+    "name": "WAE194",
+    "title": "Advanced Writing Academic Eng",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "room": "online",
+    "instructor": "Christopher Houghton",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wae/"
+  },
+  {
+    "major": "ETC",
+    "name": "WAE194",
+    "title": "Advanced Writing Academic Eng",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Andrew Lasher",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wae/"
+  },
+  {
+    "major": "ETC",
+    "name": "WAE194",
+    "title": "Advanced Writing Academic Eng",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "online",
+    "instructor": "Lindsay Dennison",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wae/"
+  },
+  {
+    "major": "ETC",
+    "name": "WAE194",
+    "title": "Advanced Writing Academic Eng",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "online",
+    "instructor": "Christopher Houghton",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wae/"
+  },
+  {
+    "major": "ETC",
+    "name": "WAE194",
+    "title": "Advanced Writing Academic Eng",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Lindsay Dennison",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wae/"
+  },
+  {
+    "major": "ETC",
+    "name": "WAE194",
+    "title": "Advanced Writing Academic Eng",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "room": "online",
+    "instructor": "Lindsay Dennison",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wae/"
+  },
+  {
+    "major": "ETC",
+    "name": "WRT101",
+    "title": "Introductory Writing Workshop",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "MON",
+      "WED"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Jessamine Price",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/"
+  },
+  {
+    "major": "ETC",
+    "name": "WRT101",
+    "title": "Introductory Writing Workshop",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "room": "online",
+    "instructor": "Andrew Lasher",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/"
+  },
+  {
+    "major": "ETC",
+    "name": "WRT101",
+    "title": "Introductory Writing Workshop",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Andrew Lasher",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/"
+  },
+  {
+    "major": "ETC",
+    "name": "WRT101",
+    "title": "Introductory Writing Workshop",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "online",
+    "instructor": "Andrew Lasher",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/"
+  },
+  {
+    "major": "ETC",
+    "name": "WRT101",
+    "title": "Introductory Writing Workshop",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "online",
+    "instructor": "Jessamine Price",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/"
+  },
+  {
+    "major": "ETC",
+    "name": "WRT101",
+    "title": "Introductory Writing Workshop",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "15:30",
+    "endTime": "16:50",
+    "room": "online",
+    "instructor": "Jessamine Price",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/"
+  },
+  {
+    "major": "ETC",
+    "name": "WRT102",
+    "title": "Intermediate Writing Workshop",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "9:00",
+    "endTime": "10:20",
+    "room": "online",
+    "instructor": "Timothy Fletcher",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/"
+  },
+  {
+    "major": "ETC",
+    "name": "WRT102",
+    "title": "Intermediate Writing Workshop",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Andrew Schenck",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/"
+  },
+  {
+    "major": "ETC",
+    "name": "WRT102",
+    "title": "Intermediate Writing Workshop",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "10:30",
+    "endTime": "11:50",
+    "room": "online",
+    "instructor": "Timothy Fletcher",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/"
+  },
+  {
+    "major": "ETC",
+    "name": "WRT102",
+    "title": "Intermediate Writing Workshop",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "online",
+    "instructor": "Andrew Schenck",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/"
+  },
+  {
+    "major": "ETC",
+    "name": "WRT102",
+    "title": "Intermediate Writing Workshop",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "TUE",
+      "THU"
+    ],
+    "startTime": "14:00",
+    "endTime": "15:20",
+    "room": "online",
+    "instructor": "Timothy Fletcher",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/"
+  },
+  {
+    "major": "ETC",
+    "name": "WST247",
+    "title": "Sociology of Gender",
+    "type": "LEC",
+    "credit": 3,
+    "days": [
+      "FRI"
+    ],
+    "startTime": "15:00",
+    "endTime": "17:50",
+    "room": "online",
+    "instructor": "Juhyun Woo",
+    "hasLab": false,
+    "link": "https://www.stonybrook.edu/sb/bulletin/current/courses/wst/"
+  }
+]

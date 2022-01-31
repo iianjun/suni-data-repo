@@ -1,0 +1,13 @@
+major,name,title,type,credit,days,startTime,endTime,room,instructor,hasLab,link
+MEC,MEC101,Freshman Design Innovation,LEC,3,TUTH,12:30 PM,1:50 PM,online,Yukeun Pak,FALSE,http://me.sunykorea.ac.kr/node/27
+MEC,MEC102,Engrg Computg & Prob Solvg,LEC,2,MW,2:00 PM,2:55 PM,online,Cornelius Bradter,FALSE,http://me.sunykorea.ac.kr/node/28
+MEC,MEC203,Eng Graphics and CAD,LEC,3,TU,2:00 PM,4:50 PM,online,Jong Park,FALSE,http://me.sunykorea.ac.kr/node/29
+MEC,MEC300,Professional Engr. Conduct,LEC,2,M,9:30 AM,11:20 AM,online,Hamid Hefazi,FALSE,http://me.sunykorea.ac.kr/node/30
+MEC,MEC305,Heat and Mass Transfer,LEC,3,MW,3:30 PM,4:50 PM,online,Gun Woong Bahng,TRUE,http://me.sunykorea.ac.kr/node/31
+MEC,MEC305,Heat and Mass Transfer,REC,3,RECW,5:00 PM,5:55 PM,online,Gun Woong Bahng,FALSE,http://me.sunykorea.ac.kr/node/32
+MEC,MEC317,Thermal-Fluids Lab,LAB,2,M,12:30 PM,3:20 PM,online,Changwoon Han,FALSE,http://me.sunykorea.ac.kr/node/33
+MEC,MEC410,Design of Machine Elmnt,LEC,3,TUTH,12:30 PM,1:50 PM,online,JONGSEONG CHOI,FALSE,http://me.sunykorea.ac.kr/node/34
+MEC,MEC411,Control Syst Analysis & Design,LEC,4,TUTH,10:30 AM,11:50 AM,online,Changwoon Han,TRUE,http://me.sunykorea.ac.kr/node/35
+MEC,MEC411,Control Syst Analysis & Design,LAB,4,W,9:00 AM,11:50 AM,online,Changwoon Han,FALSE,http://me.sunykorea.ac.kr/node/36
+MEC,MEC440,Mechanical Engnrng Design I,LEC,3,TUTH,3:30 PM,4:50 PM,online,Bruce Jo,FALSE,http://me.sunykorea.ac.kr/node/37
+MEC,MEC450,Mechatronics,LEC,3,F,12:30 PM,3:20 PM,online,Seung Bok Choi,FALSE,http://me.sunykorea.ac.kr/node/38

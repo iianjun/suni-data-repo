@@ -1,0 +1,70 @@
+major,name,title,type,number,credit,days,startTime,endTime,room,instructor,hasLab,link
+ETC,ARS205,Foundations: Idea and Form,LEC,,3,MF,9:00 AM,11:50 AM,online,Rachel Stuckey,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/ars/
+ETC,ARS225,Introduction to Digital Art,LEC,,3,W,9:00 AM,11:50 AM,online,Rachel Stuckey,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/ars/
+ETC,ARS225,Introduction to Digital Art,LAB,,3,F,12:30 PM,3:20 PM,online,Rachel Stuckey,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/ars/
+ETC,ATM102,Weather and Climate,LEC,,3,F,12:30 PM,3:20 PM,online,Seon Ki Park,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/atm/
+ETC,BIO201,Organisms to Ecosystems,LEC,,3,MW,9:00 AM,10:20 AM,online,Claire Louise Dell,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/bio/
+ETC,CAR110,Career Development and Major Decision Making,SEM,,2,F,10:00 AM,11:50 AM,online,Sunghyun Lee,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/car/
+ETC,CHI111,Elementary Chinese I,LEC,90,4,MW,5:00 PM,6:20 PM,online,Mengyang Jia,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/chi/
+ETC,CHI111,Elementary Chinese I,REC,90,4,RECM,6:30 PM,7:25 PM,online,Mengyang Jia,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/chi/
+ETC,CHI111,Elementary Chinese I,LEC,91,4,TUTH,3:30 PM,4:50 PM,online,Mengyang Jia,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/chi/
+ETC,CHI111,Elementary Chinese I,REC,91,4,RETU,5:00 PM,5:55 PM,online,Mengyang Jia,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/chi/
+ETC,CHI111,Elementary Chinese I,LEC,92,4,TUTH,10:30 AM,11:50 AM,online,Mengyang Jia,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/chi/
+ETC,CHI111,Elementary Chinese I,REC,92,4,RETH,9:30 AM,10:25 AM,online,Mengyang Jia,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/chi/
+ETC,CHI112,Elementary Chinese II,LEC,,4,MW,9:00 AM,10:20 AM,online,Mengyang Jia,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/chi/
+ETC,CHI112,Elementary Chinese II,REC,,4,RECM,10:30 AM,11:23 AM,online,Mengyang Jia,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/chi/
+ETC,ECO108,Introduction to Economics,LEC,90,4,TUTH,10:30 AM,11:50 AM,online,Jong Seok Kim,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/eco/
+ETC,ECO108,Introduction to Economics,REC,90,4,RETH,12:30 PM,1:25 PM,online,Jong Seok Kim,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/eco/
+ETC,ECO108,Introduction to Economics,LEC,91,4,TUTH,3:30 PM,4:50 PM,online,Jong Seok Kim,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/eco/
+ETC,ECO108,Introduction to Economics,REC,91,4,RETU,12:30 PM,1:25 PM,online,Jong Seok Kim,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/eco/
+ETC,ESG198,Fundmntls of Engineering Chem,LEC,,3,TUTH,10:30 AM,11:50 AM,online,Woong Moo Lee,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/esg/
+ETC,FLM102,Intro to Film/TV Composition,LEC,,3,F,12:30 PM,3:20 PM,online,Sun Park,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/esg/
+ETC,FLM102,Intro to Film/TV Composition,LEC,,3,F,9:00 AM,11:50 AM,online,Sun Park,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/esg/
+ETC,HIS104,United States Since 1877,LEC,,3,TUTH,3:30 PM,4:25 PM,online,Donald Bellomy,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/his/
+ETC,HIS104,United States Since 1877,REC,,3,RETH,12:30 PM,1:25 PM,online,Donald Bellomy,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/his/
+ETC,HIS238,"Sci, Tech, Med in West Civ II",LEC,,3,MW,9:00 AM,10:20 AM,online,Donald Bellomy,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/his/
+ETC,KOR111,Elementary Korean I,LEC,,4,TUTH,2:00 PM,3:20 PM,online,Hea Hur,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/kor/
+ETC,KOR111,Elementary Korean I,REC,,4,RETU,3:30 PM,4:25 PM,online,Hea Hur,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/kor/
+ETC,KOR112,Elementary Korean II,LEC,,4,TUTH,5:00 PM,6:20 PM,online,Hea Hur,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/kor/
+ETC,KOR112,Elementary Korean II,REC,,4,RETH,4:00 PM,4:55 PM,online,Hea Hur,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/kor/
+ETC,KOR220,Intermediate Heritage Korean,LEC,,3,M,9:00 AM,11:50 AM,online,Koksuk Seo,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/kor/
+ETC,KOR220,Intermediate Heritage Korean,LEC,,3,M,12:00 PM,2:50 PM,online,Koksuk Seo,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/kor/
+ETC,MAP103,Proficiency Algebra,LEC,,3,MW,10:30 AM,11:50 AM,online,Sang Hee Park,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/map/
+ETC,MAT122,Overview of Calculus with Appl,LEC,,3,MW,10:30 AM,11:50 AM,online,Jaeyeong Lee,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/mat/
+ETC,MAT122,Overview of Calculus with Appl,REC,,3,RECM,12:30 PM,1:25 PM,online,Jaeyeong Lee,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/mat/
+ETC,MAT123,Precalculus,LEC,,3,MW,5:00 PM,6:20 PM,online,Young-seon Lee,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/mat/
+ETC,MAT123,Precalculus,REC,,3,RECM,2:00 PM,2:55 PM,online,Young-seon Lee,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/mat/
+ETC,MUS105,Music Cultures of the World,LEC,,3,TU,9:30 AM,12:20 PM,online,Soojin Kim,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/mus/
+ETC,PHY131,Classical Physics I,LEC,,3,TUTH,10:30 AM,11:50 AM,online,Mackenzie Lenz,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/phy/
+ETC,PHY131,Classical Physics I,REC,,3,RECW,9:30 AM,10:25 AM,online,Mackenzie Lenz,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/phy/
+ETC,PHY132,Classical Physics II,LEC,,3,TUTH,9:00 AM,10:20 AM,online,Mackenzie Lenz,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/phy/
+ETC,PHY132,Classical Physics II,REC,,3,RECW,10:30 AM,11:25 AM,online,Mackenzie Lenz,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/phy/
+ETC,PHY133,Classical Physics Laboratory I,LAB,,1,F,11:30 AM,1:50 PM,online,Mackenzie Lenz,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/phy/
+ETC,PHY133,Classical Physics Laboratory I,LAB,,1,F,9:00 AM,11:20 AM,online,Mackenzie Lenz,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/phy/
+ETC,PHY134,Classical Physics Lab II,LAB,,1,F,2:00 PM,4:20 PM,online,Mackenzie Lenz,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/phy/
+ETC,POL101,World Politics,LEC,,3,W,9:00 AM,11:50 AM,online,Won Geun Choi,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/pol/
+ETC,POL102,Intro to American Government,LEC,,3,MW,2:00 PM,3:20 PM,online,Jung-Min Hong,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/pol/
+ETC,SOC247,Sociology of Gender,LEC,,3,F,3:00 PM,5:50 PM,online,Juhyun Woo,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/soc/
+ETC,SUS206,Economics and Sustainability,LEC,,3,TUTH,12:30 PM,1:25 PM,online,Young June Kwon,TRUE,https://www.stonybrook.edu/sb/bulletin/current/courses/sus/
+ETC,SUS206,Economics and Sustainability,REC,,3,RETH,2:00 PM,2:55 PM,online,Young June Kwon,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/sus/
+ETC,WAE192,High Intermediate Writing,LEC,,3,MW,10:30 AM,11:50 AM,online,Hyun-ju Kim,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wae/
+ETC,WAE192,High Intermediate Writing,LEC,,3,MW,2:00 PM,3:20 PM,online,Hyun-ju Kim,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wae/
+ETC,WAE192,High Intermediate Writing,LEC,,3,MW,3:30 PM,4:50 PM,online,Hyun-ju Kim,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wae/
+ETC,WAE194,Advanced Writing Academic Eng,LEC,,3,MW,9:00 AM,10:20 AM,online,Christopher Houghton,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wae/
+ETC,WAE194,Advanced Writing Academic Eng,LEC,,3,MW,10:30 AM,11:50 AM,online,Andrew Lasher,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wae/
+ETC,WAE194,Advanced Writing Academic Eng,LEC,,3,MW,2:00 PM,3:20 PM,online,Lindsay Dennison,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wae/
+ETC,WAE194,Advanced Writing Academic Eng,LEC,,3,MW,3:30 PM,4:50 PM,online,Christopher Houghton,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wae/
+ETC,WAE194,Advanced Writing Academic Eng,LEC,,3,MW,10:30 AM,11:50 AM,online,Lindsay Dennison,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wae/
+ETC,WAE194,Advanced Writing Academic Eng,LEC,,3,MW,9:00 AM,10:20 AM,online,Lindsay Dennison,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wae/
+ETC,WRT101,Introductory Writing Workshop,LEC,,3,MW,10:30 AM,11:50 AM,online,Jessamine Price,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/
+ETC,WRT101,Introductory Writing Workshop,LEC,,3,TUTH,9:00 AM,10:20 AM,online,Andrew Lasher,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/
+ETC,WRT101,Introductory Writing Workshop,LEC,,3,TUTH,10:30 AM,11:50 AM,online,Andrew Lasher,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/
+ETC,WRT101,Introductory Writing Workshop,LEC,,3,TUTH,2:00 PM,3:20 PM,online,Andrew Lasher,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/
+ETC,WRT101,Introductory Writing Workshop,LEC,,3,TUTH,2:00 PM,3:20 PM,online,Jessamine Price,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/
+ETC,WRT101,Introductory Writing Workshop,LEC,,3,TUTH,3:30 PM,4:50 PM,online,Jessamine Price,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/
+ETC,WRT102,Intermediate Writing Workshop,LEC,,3,TUTH,9:00 AM,10:20 AM,online,Timothy Fletcher,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/
+ETC,WRT102,Intermediate Writing Workshop,LEC,,3,TUTH,10:30 AM,11:50 AM,online,Andrew Schenck,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/
+ETC,WRT102,Intermediate Writing Workshop,LEC,,3,TUTH,10:30 AM,11:50 AM,online,Timothy Fletcher,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/
+ETC,WRT102,Intermediate Writing Workshop,LEC,,3,TUTH,2:00 PM,3:20 PM,online,Andrew Schenck,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/
+ETC,WRT102,Intermediate Writing Workshop,LEC,,3,TUTH,2:00 PM,3:20 PM,online,Timothy Fletcher,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wrt/
+ETC,WST247,Sociology of Gender,LEC,,3,F,3:00 PM,5:50 PM,online,Juhyun Woo,FALSE,https://www.stonybrook.edu/sb/bulletin/current/courses/wst/
