@@ -1,0 +1,14 @@
+major,name,title,type,credit,days,startTime,endTime,room,instructor,hasLab,link
+AMS,AMS151,Applied Calculus I,LEC,3,MW,3:30 PM,4:50 PM,Online,Young-seon Lee,FALSE,http://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams151.php
+AMS,AMS151,Applied Calculus I,LEC,3,TUTH,3:30 PM,4:50 PM,Online,Young-seon Lee,FALSE,http://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams151.php
+AMS,AMS161,Applied Calculus II,LEC,3,MW,3:30 PM,4:50 PM,Online,Kazem Mahdavi,FALSE,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams161.php
+AMS,AMS161,Applied Calculus II,LEC,3,TUTH,3:30 PM,4:50 PM,Online,Kazem Mahdavi,FALSE,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams161.php
+AMS,AMS210,Applied Linear Algebra,LEC,3,TUTH,5:00 PM,6:20 PM,Online,Kazem Mahdavi,FALSE,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams210.php
+AMS,AMS261,Applied Calculus III,LEC,4,MW,3:30 PM,4:50 PM,Online,Tan Cao,TRUE,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams261.php
+AMS,AMS261,Applied Calculus III,REC,4,RECM,12:30 PM,1:25 PM,Online,Tan Cao,FALSE,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams261.php
+AMS,AMS301,Finite Mathematical Structures,LEC,3,MW,5:00 PM,6:20 PM,Online,Suil O,FALSE,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams301.php
+AMS,AMS303,Graph Theory,LEC,3,MW,10:30 AM,11:50 AM,Online,Suil O,FALSE,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams303.php
+AMS,AMS310,Survey of Probability and Stat,LEC,3,MW,10:30 AM,11:50 AM,Online,Ky Tran,FALSE,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams310.php
+AMS,AMS311,Probability Theory,LEC,3,MW,9:00 AM,10:20 AM,Online,Ky Tran,FALSE,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams311.php
+AMS,AMS316,Data Analysis,LEC,3,MW,3:30 PM,4:50 PM,Online,CHANGSOON PARK,FALSE,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams316.php
+AMS,AMS326,Numerical Analysis,LEC,3,MW,2:00 PM,3:20 PM,Online,Tan Cao,FALSE,https://www.stonybrook.edu/commcms/ams/undergraduate/_courses/ams326.php
